@@ -1,0 +1,76 @@
+.java-head {
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(40, 42, 53);
+    word-spacing: 20px;
+}
+
+.java-link {
+    text-decoration: none;
+    color: #fff;
+    line-height: 80px;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+.home {
+    font-size: 18px;
+    line-height: 45px;
+    background-color: rgb(67, 167, 67);
+    color: #fff;
+}
+
+.thirt-part {
+    background-color: rgb(211, 243, 211);
+}
+
+.p {
+    line-height: 40px;
+    text-indent: 20px;
+}
+
+.study {
+    font-size: 20px;
+    line-height: 43px;
+    background-color: rgb(67, 167, 67);
+    color: #fff;
+}
+
+.h2 {
+    font-size: 30px;
+    text-indent: 20px
+}
+
+.p2 {
+    font-size: 18px;
+}
+
+.last-div {
+    width: 1000px;
+    background-color: rgb(151, 145, 145);
+}
+
+.h3 {
+    font-size: 30px;
+
+}
+
+.insade-last-div {
+    width: 900px;
+    height: 40px;
+    background-color: #fff;
+    text-indent: 20px;
+}
+
+.btn-outside {
+    font-size: 18px;
+    line-height: 45px;
+    background-color: rgb(67, 167, 67);
+    color: #fff;
+}
+
+.paragraf {
+    font-size: 20px;
+}
